@@ -1,8 +1,9 @@
-# Autopost Telegram Bot Dart
+IyBBdXRvcG9zdCBUZWxlZ3JhbSBCb3QgRGFydAoKQXV0byBQb3N0IFRlbGVn
+cmFtIGJvdCBzaW1wbGUgbWVuZ2d1bmFrYW4gYmFoYXNhIGNvZGUgZGFydAoK
+PiBzcGVlZCBjb2RlIHR1dG9yIHNpbGFoa2FuIGNoZWNrIGxhbmdzdW5nIGxp
+bmsgeW91dHViZSBkaSBiYXdhaCBpbmkKCgpbU3BlZWQtQ29kZV0oaHR0cHM6
+Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj05VS1vQ3hkbkNuWSkK
 
-Auto Post Telegram bot simple menggunakan bahasa code dart
-
-> speed code tutor silahkan check langsung link youtube di bawah ini
-
-
-[Speed-Code](https://www.youtube.com/watch?v=9U-oCxdnCnY)
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
